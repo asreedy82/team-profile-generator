@@ -10,7 +10,7 @@ This project enabled me to dive deeper into Object Oriented Programming as well 
 
 In order to use this application, node.js needs to be installed on the machine as well as Jest (for testing purposes) and Inquirer. To install Inquirer, first run `npm init -y` then run `npm i inquirer@8.2.4`. To install Jest, run `npm install jest`. After that, it is a good idea (and often necessary) to run `npm install` from terminal before beginning any future sessions. 
 
-  - Link to video demo of app [Screencast Link](need link)
+  - Link to video demo of app [Screencast Link](https://watch.screencastify.com/v/q2nmm6b9U4YJY8KiZ6Dc)
 
 ## Usage
 
